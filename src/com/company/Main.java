@@ -6,5 +6,8 @@ public class Main {
 	// Soru 1:
         int i = 4;
         System.out.println("i is " + i);
+
+        // Soru2:
+        // Cozuldu
     }
 }
