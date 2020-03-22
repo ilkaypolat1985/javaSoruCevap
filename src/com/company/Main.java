@@ -9,5 +9,8 @@ public class Main {
 
         // Soru2:
         // Cozuldu
+
+        // Soru3:
+        // Cozuldu
     }
 }
