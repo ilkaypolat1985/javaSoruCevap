@@ -3,6 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// Soru 1:
+        int i = 4;
+        System.out.println("i is " + i);
     }
 }
